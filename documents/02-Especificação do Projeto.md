@@ -53,16 +53,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 | RF-002 |  O sistema deve permitir os usuários atualizem suas 
 informações                                                      | ALTA |                                   | RF-002 |  O sistema deve permitir que os profissionais 
 sincronizem suas agendas com a agenda da plataforma              | ALTA |                               
-| RF-002 |  O sistema deve permitir que o paciente faça          | ALTA |
-uma pesquisa    
-| RF-002 |  O sistema deve filtrar os profissionais por          | ALTA |
-especialidades 
-| RF-002 |  O sistema deve exibir uma lista dos profissionais    | ALTA |
-encontrados     
-| RF-002 |  O sistema deve permitir que o usuário selecione um   | ALTA |
-profissional     
-| RF-002 |  O sistema deve exibir o perfil do profissional       | ALTA |
-com todas as suas informações
+| RF-002 |  O sistema deve permitir que o paciente faça uma pesquisa         | ALTA |   
+| RF-002 |  O sistema deve filtrar os profissionais por  especialidades        | ALTA | 
+| RF-002 |  O sistema deve exibir uma lista dos profissionais encontrados  | ALTA |     
+| RF-002 |  O sistema deve permitir que o usuário selecione um profissional  | ALTA |
+| RF-002 |  O sistema deve exibir o perfil do profissional com todas as suas informações     | ALTA |
 | RF-002 |  O sistema deve permitir que o usuário faça login     | ALTA |
 | RF-002 |  O sistema deve permitir que o usuário faça login     | ALTA |
 | RF-002 |  O sistema deve permitir que o usuário faça login     | ALTA |
