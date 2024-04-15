@@ -16,7 +16,6 @@ O texto aborda a questão do acesso aos serviços de saúde no Brasil, destacand
 * Rian
 * Thiago Gonçalves Ribeiro
 * Vagner Lopes de Araujo
-* Nome completo do aluno 6
 
 ## Orientador
 
