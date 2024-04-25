@@ -24,7 +24,11 @@ Fonte: https://www.doctoralia.com.br/
 </tbody>
 </table>
 
-
+<table> 
+<tbody> 
+<tr align=center>
+<th colspan="2"> Pesquisa </th>
+</tr> 
 <tr>
 <td width="150px"><b> Foto </b></td>
 <td width="600px">...</td> 
@@ -37,7 +41,6 @@ Fonte: https://www.boaconsulta.com/
 </tr>
 </tbody>
 </table>
-
 ## Histórias de Usuários
 
 [Apresente aqui as histórias de usuários que são relevantes para o projeto da solução.]
