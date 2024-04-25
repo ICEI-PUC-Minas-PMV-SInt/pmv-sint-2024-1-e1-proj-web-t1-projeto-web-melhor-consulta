@@ -52,7 +52,12 @@ Fonte: https://www.boaconsulta.com/
 
 |EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|---------------------------|----------------------------------|
-| João Batista, 43 anos               | ...                       | ...                              |
+| João Batista, 43 anos e Solteiro -Cargo: Auxiliar de Construção, trabalha 8 horas por dia, onde executa serviços pesados e cansativos.
+
+-Escolaridade: Ensino Médio Completo 
+  
+-Renda Mensal: R$4.142,00
+               | ...                       | ...                              |
 | ...                | ...                       | ...                              |
 
 ## Requisitos do Projeto
