@@ -1,11 +1,10 @@
 # Especificação do Projeto
 
 Durante a nossa pesquisa, pudemos notar que existem muitas plataformas especializadas em agendamento de consultas presenciais ou teleconsultas, no entanto, muitas dessas plataformas são de centros médicos, ou seja, eles oferecem a possibilidade de agendamento apenas com os profissionais funcionários dos centros. 
-Entre as plataformas que conectam os usuários aos profissionais independentes, foi observado que a maior parte dos perfis dos profissionais possuíam poucas informações sobre os mesmos, e muitos não oferecem a opção de fazer um agendamento online. Ou seja, o usuário acessaria a o perfil do profissional apenas para conseguir os meios de contato, tendo que agendar uma consulta através dos métodos convencionais.
 
 ## Perfis de Usuários
 
-[Enumere e faça o detalhamento dos perfis de usuários. Utilize o modelo de tabela abaixo para sintetizá-los.]
+Entre as plataformas que conectam os usuários aos profissionais independentes, foi observado que a maior parte dos perfis dos profissionais possuíam poucas informações sobre os mesmos, e muitos não oferecem a opção de fazer um agendamento online. Ou seja, o usuário acessaria a o perfil do profissional apenas para conseguir os meios de contato, tendo que agendar uma consulta através dos métodos convencionais.
 
 <table>
 <tbody>
