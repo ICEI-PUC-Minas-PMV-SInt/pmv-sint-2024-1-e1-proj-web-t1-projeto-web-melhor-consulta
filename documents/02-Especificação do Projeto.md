@@ -10,50 +10,20 @@ Entre as plataformas que conectam os usuários aos profissionais independentes, 
 <tbody> 
 <tr align=center>
 <th colspan="2"> Pesquisa </th>
-</tr>
+</tr> o 
 <tr>
 <td width="150px"><b> Foto </b></td>
 <td width="600px">...</td> 
 
 </tr>
 <tr>
-<td><b> Foto </b></td>
-<td> 
+<td><b> Descrição </b></td>
+<td>  o 
 </tr>
 </tbody>
 </table>
 
-<table> 
-<tbody> 
-<tr align=center>
-<th colspan="2"> Descrição </th>
-</tr>
-<tr>
-<td width="150px"><b> Foto </b></td>
-<td width="600px">...</td>
-</tr>
-<tr>
-<td><b> Necessidades </b></td>
-<td> 
-</tr>
-</tbody>
-</table>
 
-<table> 
-<tbody> 
-<tr align=center>
-<th colspan="2"> Descrição </th>
-</tr>
-<tr>
-<td width="150px"><b> Foto </b></td>
-<td width="600px">...</td>
-</tr>
-<tr>
-<td><b> Necessidades </b></td>
-<td> 
-</tr>
-</tbody>
-</table>
 
 ## Histórias de Usuários
 
