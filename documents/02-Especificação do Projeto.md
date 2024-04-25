@@ -24,7 +24,23 @@ Fonte: https://www.doctoralia.com.br/
 </tbody>
 </table>
 
+<table> 
+<tbody> 
+<tr align=center>
+<th colspan="2"> Pesquisa </th>
+</tr> 
+<tr>
+<td width="150px"><b> Foto </b></td>
+<td width="600px">...</td> 
 
+</tr>
+<tr>
+<td><b> Descrição </b></td>
+<td>  O BoaConsulta também é uma plataforma que conecta os usuários aos profissionais. Assim como o doctoralia, muitos profissionais não oferecem a possibilidade de fazer um agendamento online. Também tem funcionalidades de gerenciamento de consultório/clinica.
+Fonte: https://www.boaconsulta.com/
+</tr>
+</tbody>
+</table>
 
 ## Histórias de Usuários
 
