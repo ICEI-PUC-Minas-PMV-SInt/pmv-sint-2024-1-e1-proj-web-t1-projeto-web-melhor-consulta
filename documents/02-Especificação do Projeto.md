@@ -11,15 +11,13 @@ Entre as plataformas que conectam os usuários aos profissionais independentes, 
 <tr align=center>
 <th colspan="2"> Foto </th>
 </tr>
-
 <tr>
 <td width="150px"><b>Descrição</b></td>
 <td width="600px">...</td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td>O Doctoralia é uma plataforma que conecta os usuários aos profissionais. Porém muitos perfis dos profissionais não oferecem a possibilidade de fazer um agendamento online.
-Fonte: https://www.doctoralia.com.br/ </td>
+<td>O 
 </tr>
 </tbody>
 </table>
