@@ -6,20 +6,20 @@ Durante a nossa pesquisa, pudemos notar que existem muitas plataformas especiali
 
 Entre as plataformas que conectam os usuários aos profissionais independentes, foi observado que a maior parte dos perfis dos profissionais possuíam poucas informações sobre os mesmos, e muitos não oferecem a opção de fazer um agendamento online. Ou seja, o usuário acessaria a o perfil do profissional apenas para conseguir os meios de contato, tendo que agendar uma consulta através dos métodos convencionais.
 
-<table> Foto
-![image](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2024-1-e1-proj-web-t1-projeto-web-melhor-consulta/assets/143913949/dcdf8248-1b08-4358-90a6-bc1bda8b2d44)
-<tbody> O Doctoralia é uma plataforma que conecta os usuários aos profissionais. Porém muitos perfis dos profissionais não oferecem a possibilidade de fazer um agendamento online.
-Fonte: https://www.doctoralia.com.br/ 
+<table> 
+<tbody> 
 <tr align=center>
-<th colspan="2">Perfil Nome </th>
+<th colspan="2"> Foto </th>
 </tr>
+
 <tr>
 <td width="150px"><b>Descrição</b></td>
 <td width="600px">...</td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td>...</td>
+<td>O Doctoralia é uma plataforma que conecta os usuários aos profissionais. Porém muitos perfis dos profissionais não oferecem a possibilidade de fazer um agendamento online.
+Fonte: https://www.doctoralia.com.br/ </td>
 </tr>
 </tbody>
 </table>
