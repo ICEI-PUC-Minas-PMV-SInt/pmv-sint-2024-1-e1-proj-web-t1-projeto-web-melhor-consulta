@@ -16,7 +16,7 @@ Entre as plataformas que conectam os usuários aos profissionais independentes, 
 <td width="600px">...</td>
 </tr>
 <tr>
-<td><b>Necessidades</b></td>
+<td><b> Necessidades </b></td>
 <td>O 
 </tr>
 </tbody>
